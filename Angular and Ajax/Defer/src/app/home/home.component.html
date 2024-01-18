@@ -1,0 +1,15 @@
+
+<nav class="navbar">
+    <div class="nav-left">
+        <a routerLink="/root" class="nav-button"(click)="navigateToHome()">Home</a>
+        <a routerLink ="/app" class="nav-button">About</a>
+        <a routerLink ="/app" class="nav-button">Contact Us</a>
+    </div>
+    <div class="nav-right">
+        <a routerLink="/nav" class="nav-button" (click) ="navigateToLogin()">Login</a>
+        @defer(on idle) {
+        <a routerLink="/register" class="nav-button">Register</a>
+    }
+
+    </div>
+</nav>

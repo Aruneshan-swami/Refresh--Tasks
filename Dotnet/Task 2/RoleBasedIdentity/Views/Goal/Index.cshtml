@@ -1,0 +1,72 @@
+﻿@model IEnumerable<TimeMate.Models.GoalSetting>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+
+    if (User.IsInRole("Admin"))
+    {
+        Layout = "~/Views/Layouts/_AdminLayout.cshtml";
+    }
+    else if (User.IsInRole("employee"))
+    {
+        Layout = "~/Views/Layouts/_EmployeeLayout.cshtml";
+    }
+    else
+    {
+        Layout = "~/Views/Layouts/_ManagerLayout.cshtml";
+    }
+}
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dueDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.isComplete)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.assignedTo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.assignedBy)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dueDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.isComplete)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.assignedTo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.assignedBy)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-Id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-Id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-Id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

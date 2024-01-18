@@ -1,0 +1,33 @@
+.card{
+    box-shadow: 0 4px 8px 0 rgba(3, 1, 1, 0.2);
+    transition: 0.3s;
+    width: 350px;
+    height: 300px;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #646363;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+    margin-left: 350px;
+
+}
+.card:hover{
+    box-shadow:  0 8px 16px 0 rgba(14, 4, 4, 0.2) ;
+}
+.conainer{
+    padding: 2px 16px;
+
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+}
+.label{
+    margin-bottom: 16px;
+    padding: 8px;
+}
+input,button{
+    margin-bottom: 16px;
+    padding: 8px;
+}

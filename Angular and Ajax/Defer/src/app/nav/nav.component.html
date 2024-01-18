@@ -1,0 +1,22 @@
+@defer(on immediate) {
+  <app-nav></app-nav>
+} @placeholder (minimum 500ms) {
+  <app-home></app-home>
+  <div class="card">
+    <div class="container">
+      <div class="main">
+        <h1>SignIn</h1>
+        <form>
+          <div class="form-group">
+            <label for="Email">Email</label>
+            <input type="text" class="form-control" id="Email" required>
+          <br>
+            <label for="Password">Password</label>
+            <input type="password" class="form-control" id="Password"required>
+          </div>
+      <button type="button" (click) ="display()" >Login</button>
+    </form>
+</div>
+</div>
+</div>
+}

@@ -1,0 +1,592 @@
+2024-01-12 17:38:17.867 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/AccessDenied.cshtml'.
+2024-01-12 17:38:17.897 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmail.cshtml'.
+2024-01-12 17:38:17.897 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml'.
+2024-01-12 17:38:17.897 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ExternalLogin.cshtml'.
+2024-01-12 17:38:17.897 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPassword.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Lockout.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Login.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWith2fa.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Logout.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Email.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Index.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_Layout.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Register.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPassword.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_StatusMessage.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_ViewImports.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Error.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewImports.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewStart.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Admin/Index.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Goal/Create.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Goal/Delete.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Goal/Details.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Goal/Edit.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Goal/Index.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/SubmitFeedback.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Layouts/_AdminLayout.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Layouts/_EmployeeLayout.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Layouts/_ManagerLayout.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Leave/Cancel.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Leave/Create.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Leave/Delete.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Leave/Details.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Leave/Edit.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Leave/Index.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Leave/Manage.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Message/Archive.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Message/MessageCreate.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Message/MessageDetails.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Message/MessageEdit.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Message/MessageIndex.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Message/MessageIndexPartial.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Message/Parialsent.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Message/UnArchive.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Role/Create.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Role/Index.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_CookieConsentPartial.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_LoginPartial.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_NavAdminPartial.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_NavEmployeePartial.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_NavManagerPartial.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_SidebarAdminPartial.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_SidebarEmployeePartial.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_SidebarManagerPartial.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/AcceptOrRejectTimesheet.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/AccessDenie.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/AddProjectMember.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/AdminDashboard.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/AdminProfile.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/AdminWorkSpace.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/ChangeProject.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/ChangeProjectRequests.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/ChangeProjectRequestsPm.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/CreateProject.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/CreateTask.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/CreateWeekSetting.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/CreateWorkspace.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/DailyTimesheets.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/DeleteSetting.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/EditTimeSheet.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/EditWeekSetting.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/EmployeeProfile.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/ExportTasks.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/FillTimeSheet.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/ImportTasks.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/Index.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/IndividualDashboard.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/MessageCreate.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/MessageDetails.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/MessageEdit.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/MessageIndex.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/MessageIndexPartial.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/Parialsent.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/PermissionApprove.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/PermissionCreate.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/PermissionDelete.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/PermissionDetails.cshtml'.
+2024-01-12 17:38:17.898 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/PermissionEdit.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/PermissionIndex.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/PermissionReject.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/ProductivityOfEmployee.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/ProjectMangerDashboard.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/ProjectMangerProfile.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/ProjectMembers.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/Projects.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/ShowTimeSheet.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/ShowTimeSheetViewOnly.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/SubmitTimesheetToManager.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/UnArchive.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/WeekSetting.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/Workspace.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/User/WorkspaceTasks.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/AccessDenied.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmail.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ExternalLogin.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPassword.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Lockout.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Login.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWith2fa.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Logout.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Email.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Index.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_Layout.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ViewStart.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Register.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPassword.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_StatusMessage.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_ViewImports.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Error.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_Layout.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewImports.cshtml'.
+2024-01-12 17:38:17.899 +05:30 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewStart.cshtml'.
+2024-01-12 17:38:17.903 +05:30 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-01-12 17:38:17.918 +05:30 [INF] User profile is available. Using 'C:\Users\aruneshan.swami\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-01-12 17:38:18.382 +05:30 [DBG] Hosting starting
+2024-01-12 17:38:18.391 +05:30 [DBG] Repository contains no viable default key. Caller should generate a key with immediate activation.
+2024-01-12 17:38:18.392 +05:30 [DBG] Policy resolution states that a new key should be added to the key ring.
+2024-01-12 17:38:18.393 +05:30 [INF] Creating key {be754ed7-0b81-40bb-a7d5-f8d28cb2b215} with creation date 2024-01-12 12:08:18Z, activation date 2024-01-12 12:08:18Z, and expiration date 2024-04-11 12:08:18Z.
+2024-01-12 17:38:18.397 +05:30 [DBG] Descriptor deserializer type for key {be754ed7-0b81-40bb-a7d5-f8d28cb2b215} is 'Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'.
+2024-01-12 17:38:18.410 +05:30 [DBG] No key escrow sink found. Not writing key {be754ed7-0b81-40bb-a7d5-f8d28cb2b215} to escrow.
+2024-01-12 17:38:18.413 +05:30 [DBG] Encrypting to Windows DPAPI for current user account (ASPIRESYS\aruneshan.swami).
+2024-01-12 17:38:18.417 +05:30 [INF] Writing data to file 'C:\Users\aruneshan.swami\AppData\Local\ASP.NET\DataProtection-Keys\key-be754ed7-0b81-40bb-a7d5-f8d28cb2b215.xml'.
+2024-01-12 17:38:18.417 +05:30 [DBG] Key cache expiration token triggered by 'CreateNewKey' operation.
+2024-01-12 17:38:18.418 +05:30 [DBG] Reading data from file 'C:\Users\aruneshan.swami\AppData\Local\ASP.NET\DataProtection-Keys\key-be754ed7-0b81-40bb-a7d5-f8d28cb2b215.xml'.
+2024-01-12 17:38:18.419 +05:30 [DBG] Found key {be754ed7-0b81-40bb-a7d5-f8d28cb2b215}.
+2024-01-12 17:38:18.421 +05:30 [DBG] Considering key {be754ed7-0b81-40bb-a7d5-f8d28cb2b215} with expiration date 2024-04-11 12:08:18Z as default key.
+2024-01-12 17:38:18.422 +05:30 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-12 17:38:18.422 +05:30 [DBG] Decrypting secret element using Windows DPAPI.
+2024-01-12 17:38:18.424 +05:30 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-01-12 17:38:18.426 +05:30 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-01-12 17:38:18.427 +05:30 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-01-12 17:38:18.428 +05:30 [DBG] Using key {be754ed7-0b81-40bb-a7d5-f8d28cb2b215} as the default key.
+2024-01-12 17:38:18.428 +05:30 [DBG] Key ring with default key {be754ed7-0b81-40bb-a7d5-f8d28cb2b215} was loaded during application startup.
+2024-01-12 17:38:18.469 +05:30 [INF] Now listening on: http://localhost:5006
+2024-01-12 17:38:18.469 +05:30 [DBG] Loaded hosting startup assembly TimeMate
+2024-01-12 17:38:18.469 +05:30 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-01-12 17:38:18.470 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-12 17:38:18.470 +05:30 [INF] Hosting environment: Development
+2024-01-12 17:38:18.470 +05:30 [INF] Content root path: C:\Users\aruneshan.swami\Downloads\Project\TimeMate
+2024-01-12 17:38:18.470 +05:30 [DBG] Hosting started
+2024-01-12 17:38:48.818 +05:30 [DBG] Connection id "0HN0JCSTV862S" accepted.
+2024-01-12 17:38:48.819 +05:30 [DBG] Connection id "0HN0JCSTV862S" started.
+2024-01-12 17:38:48.821 +05:30 [DBG] Connection id "0HN0JCSTV862T" accepted.
+2024-01-12 17:38:48.822 +05:30 [DBG] Connection id "0HN0JCSTV862T" started.
+2024-01-12 17:38:48.863 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/ - null null
+2024-01-12 17:38:48.873 +05:30 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-01-12 17:38:48.894 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:38:48.895 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-01-12 17:38:48.895 +05:30 [DBG] The request path / does not match a supported file type
+2024-01-12 17:38:48.941 +05:30 [DBG] 1 candidate(s) found for the request path '/'
+2024-01-12 17:38:48.945 +05:30 [DBG] Endpoint 'TimeMate.Controllers.HomeController.Index (TimeMate)' with route pattern '{controller=Home}/{action=Index}/{id?}/{id2?}' is valid for the request path '/'
+2024-01-12 17:38:48.945 +05:30 [DBG] Request matched endpoint 'TimeMate.Controllers.HomeController.Index (TimeMate)'
+2024-01-12 17:38:48.956 +05:30 [DBG] AuthenticationScheme: Identity.Application was not authenticated.
+2024-01-12 17:38:48.959 +05:30 [INF] Executing endpoint 'TimeMate.Controllers.HomeController.Index (TimeMate)'
+2024-01-12 17:38:48.970 +05:30 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller TimeMate.Controllers.HomeController (TimeMate).
+2024-01-12 17:38:48.972 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-01-12 17:38:48.973 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-01-12 17:38:48.973 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","TimeMate.Controllers.LogAttribute (Order: 0)"]
+2024-01-12 17:38:48.973 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-01-12 17:38:48.973 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter","TimeMate.Controllers.LogAttribute (Order: 0)"]
+2024-01-12 17:38:48.976 +05:30 [DBG] Executing controller factory for controller TimeMate.Controllers.HomeController (TimeMate)
+2024-01-12 17:38:48.978 +05:30 [DBG] Executed controller factory for controller TimeMate.Controllers.HomeController (TimeMate)
+2024-01-12 17:38:48.979 +05:30 [INF] Home/Index page accessed.
+2024-01-12 17:38:48.985 +05:30 [DBG] View lookup cache miss for view 'Index' in controller 'Home'.
+2024-01-12 17:38:48.992 +05:30 [INF] Executing ViewResult, running view Index.
+2024-01-12 17:38:49.005 +05:30 [DBG] The view path '/Views/Home/Index.cshtml' was found in 9.0181ms.
+2024-01-12 17:38:49.839 +05:30 [DBG] View lookup cache miss for view '_Layout' in controller 'Home'.
+2024-01-12 17:38:50.975 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-01-12 17:38:51.205 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (area=[],action=[Index],controller=[Home])
+2024-01-12 17:38:51.207 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?}/{id2?} for Route: {controller=Home}/{action=Index}/{id?}/{id2?} resulting in  and 
+2024-01-12 17:38:51.208 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /
+2024-01-12 17:38:51.210 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (area=[],action=[Index],controller=[Home])
+2024-01-12 17:38:51.210 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?}/{id2?} for Route: {controller=Home}/{action=Index}/{id?}/{id2?} resulting in  and 
+2024-01-12 17:38:51.210 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /
+2024-01-12 17:38:51.211 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (area=[],action=[Privacy],controller=[Home])
+2024-01-12 17:38:51.211 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?}/{id2?} for Route: {controller=Home}/{action=Index}/{id?}/{id2?} resulting in /Home/Privacy and 
+2024-01-12 17:38:51.211 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /Home/Privacy
+2024-01-12 17:38:51.212 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (area=[],action=[SubmitFeedback],controller=[Home])
+2024-01-12 17:38:51.212 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?}/{id2?} for Route: {controller=Home}/{action=Index}/{id?}/{id2?} resulting in /Home/SubmitFeedback and 
+2024-01-12 17:38:51.212 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /Home/SubmitFeedback
+2024-01-12 17:38:51.214 +05:30 [DBG] View lookup cache miss for view '_LoginPartial' in controller 'Home'.
+2024-01-12 17:38:51.226 +05:30 [DBG] Found the endpoints ["/Account/Login","Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (area=[Identity],page=[/Account/Login])
+2024-01-12 17:38:51.226 +05:30 [DBG] Successfully processed template Identity/Account/Login for /Account/Login resulting in /Identity/Account/Login and 
+2024-01-12 17:38:51.226 +05:30 [DBG] Link generation succeeded for endpoints ["/Account/Login","Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /Identity/Account/Login
+2024-01-12 17:38:51.227 +05:30 [DBG] View lookup cache miss for view '_CookieConsentPartial' in controller 'Home'.
+2024-01-12 17:38:51.230 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (area=[],action=[Privacy],controller=[Home])
+2024-01-12 17:38:51.230 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?}/{id2?} for Route: {controller=Home}/{action=Index}/{id?}/{id2?} resulting in /Home/Privacy and 
+2024-01-12 17:38:51.230 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /Home/Privacy
+2024-01-12 17:38:51.243 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-01-12 17:38:51.252 +05:30 [INF] Executed ViewResult - view Index executed in 2268.6031ms.
+2024-01-12 17:38:51.253 +05:30 [INF] Executed action TimeMate.Controllers.HomeController.Index (TimeMate) in 2279.2491ms
+2024-01-12 17:38:51.253 +05:30 [INF] Executed endpoint 'TimeMate.Controllers.HomeController.Index (TimeMate)'
+2024-01-12 17:38:51.255 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2024-01-12 17:38:51.255 +05:30 [DBG] Connection id "0HN0JCSTV862S" completed keep alive response.
+2024-01-12 17:38:51.262 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/ - 200 null text/html; charset=utf-8 2400.5398ms
+2024-01-12 17:38:51.270 +05:30 [DBG] Connection id "0HN0JCSTV862U" accepted.
+2024-01-12 17:38:51.271 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/css/site.css?v=UA4uysojCy0vekvtFEyFdhIG2XYaWanu3OQVaguoQDM - null null
+2024-01-12 17:38:51.271 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2024-01-12 17:38:51.271 +05:30 [DBG] Connection id "0HN0JCSTV862U" started.
+2024-01-12 17:38:51.271 +05:30 [DBG] Connection id "0HN0JCSTV862V" accepted.
+2024-01-12 17:38:51.271 +05:30 [DBG] Connection id "0HN0JCSTV862V" started.
+2024-01-12 17:38:51.271 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/img/TimeMate.png - null null
+2024-01-12 17:38:51.271 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/TimeMate.styles.css?v=DV34v1Yv_HBTe41dzHk1cP-MvKclTi_feQmr1Tn3JzI - null null
+2024-01-12 17:38:51.272 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:38:51.272 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:38:51.272 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:38:51.272 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:38:51.278 +05:30 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\aruneshan.swami\Downloads\Project\TimeMate\wwwroot\css\site.css'
+2024-01-12 17:38:51.279 +05:30 [DBG] Connection id "0HN0JCSTV862T" completed keep alive response.
+2024-01-12 17:38:51.279 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/css/site.css?v=UA4uysojCy0vekvtFEyFdhIG2XYaWanu3OQVaguoQDM - 200 540 text/css 8.4656ms
+2024-01-12 17:38:51.284 +05:30 [INF] Sending file. Request path: '/img/TimeMate.png'. Physical path: 'C:\Users\aruneshan.swami\Downloads\Project\TimeMate\wwwroot\img\TimeMate.png'
+2024-01-12 17:38:51.284 +05:30 [INF] Sending file. Request path: '/TimeMate.styles.css'. Physical path: 'C:\Users\aruneshan.swami\Downloads\Project\TimeMate\obj\Debug\net8.0\scopedcss\bundle\TimeMate.styles.css'
+2024-01-12 17:38:51.285 +05:30 [DBG] Connection id "0HN0JCSTV862V" completed keep alive response.
+2024-01-12 17:38:51.285 +05:30 [DBG] Connection id "0HN0JCSTV862U" completed keep alive response.
+2024-01-12 17:38:51.285 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/img/TimeMate.png - 200 39301 image/png 13.5535ms
+2024-01-12 17:38:51.285 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/TimeMate.styles.css?v=DV34v1Yv_HBTe41dzHk1cP-MvKclTi_feQmr1Tn3JzI - 200 1181 text/css 13.5163ms
+2024-01-12 17:38:51.286 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\aruneshan.swami\Downloads\Project\TimeMate\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2024-01-12 17:38:51.286 +05:30 [DBG] Connection id "0HN0JCSTV862S" completed keep alive response.
+2024-01-12 17:38:51.286 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/lib/bootstrap/dist/css/bootstrap.min.css - 200 162726 text/css 15.5116ms
+2024-01-12 17:38:52.183 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/img/1.png - null null
+2024-01-12 17:38:52.184 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:38:52.194 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/img/2.png - null null
+2024-01-12 17:38:52.194 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:38:52.199 +05:30 [INF] Sending file. Request path: '/img/2.png'. Physical path: 'C:\Users\aruneshan.swami\Downloads\Project\TimeMate\wwwroot\img\2.png'
+2024-01-12 17:38:52.199 +05:30 [DBG] Connection id "0HN0JCSTV862S" completed keep alive response.
+2024-01-12 17:38:52.200 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/img/2.png - 200 59869 image/png 4.9879ms
+2024-01-12 17:38:52.200 +05:30 [INF] Sending file. Request path: '/img/1.png'. Physical path: 'C:\Users\aruneshan.swami\Downloads\Project\TimeMate\wwwroot\img\1.png'
+2024-01-12 17:38:52.200 +05:30 [DBG] Connection id "0HN0JCSTV862V" completed keep alive response.
+2024-01-12 17:38:52.200 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/img/1.png - 200 148518 image/png 16.7447ms
+2024-01-12 17:38:54.224 +05:30 [DBG] Connection id "0HN0JCSTV8630" accepted.
+2024-01-12 17:38:54.224 +05:30 [DBG] Connection id "0HN0JCSTV8630" started.
+2024-01-12 17:38:54.224 +05:30 [DBG] Connection id "0HN0JCSTV8631" accepted.
+2024-01-12 17:38:54.225 +05:30 [DBG] Connection id "0HN0JCSTV8631" started.
+2024-01-12 17:38:54.225 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/img/3.png - null null
+2024-01-12 17:38:54.226 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:38:54.227 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/lib/jquery/dist/jquery.min.js - null null
+2024-01-12 17:38:54.227 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:38:54.229 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/js/site.js?v=eW1UjN672Nn3KhliDqnCYIkEgh-EgMBmQGLEV_gWYNA - null null
+2024-01-12 17:38:54.229 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:38:54.230 +05:30 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\aruneshan.swami\Downloads\Project\TimeMate\wwwroot\js\site.js'
+2024-01-12 17:38:54.228 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2024-01-12 17:38:54.230 +05:30 [DBG] Connection id "0HN0JCSTV8631" completed keep alive response.
+2024-01-12 17:38:54.231 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:38:54.231 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/js/site.js?v=eW1UjN672Nn3KhliDqnCYIkEgh-EgMBmQGLEV_gWYNA - 200 230 text/javascript 2.072ms
+2024-01-12 17:38:54.236 +05:30 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\aruneshan.swami\Downloads\Project\TimeMate\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2024-01-12 17:38:54.236 +05:30 [DBG] Connection id "0HN0JCSTV8630" completed keep alive response.
+2024-01-12 17:38:54.236 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 78474 text/javascript 8.1759ms
+2024-01-12 17:38:54.236 +05:30 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\aruneshan.swami\Downloads\Project\TimeMate\wwwroot\lib\jquery\dist\jquery.min.js'
+2024-01-12 17:38:54.236 +05:30 [DBG] Connection id "0HN0JCSTV862T" completed keep alive response.
+2024-01-12 17:38:54.236 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/lib/jquery/dist/jquery.min.js - 200 89503 text/javascript 9.7321ms
+2024-01-12 17:38:54.239 +05:30 [INF] Sending file. Request path: '/img/3.png'. Physical path: 'C:\Users\aruneshan.swami\Downloads\Project\TimeMate\wwwroot\img\3.png'
+2024-01-12 17:38:54.239 +05:30 [DBG] Connection id "0HN0JCSTV862U" completed keep alive response.
+2024-01-12 17:38:54.239 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/img/3.png - 200 177701 image/png 13.6631ms
+2024-01-12 17:38:55.256 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/_framework/aspnetcore-browser-refresh.js - null null
+2024-01-12 17:38:55.259 +05:30 [DBG] Connection id "0HN0JCSTV862V" completed keep alive response.
+2024-01-12 17:38:55.259 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/_framework/aspnetcore-browser-refresh.js - 200 13732 application/javascript; charset=utf-8 3.3129ms
+2024-01-12 17:38:55.260 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/img/4.png - null null
+2024-01-12 17:38:55.260 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:38:55.273 +05:30 [INF] Sending file. Request path: '/img/4.png'. Physical path: 'C:\Users\aruneshan.swami\Downloads\Project\TimeMate\wwwroot\img\4.png'
+2024-01-12 17:38:55.273 +05:30 [DBG] Connection id "0HN0JCSTV862S" completed keep alive response.
+2024-01-12 17:38:55.273 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/img/4.png - 200 161709 image/png 12.6255ms
+2024-01-12 17:38:55.307 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/favicon.ico - null null
+2024-01-12 17:38:55.307 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:38:55.309 +05:30 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\aruneshan.swami\Downloads\Project\TimeMate\wwwroot\favicon.ico'
+2024-01-12 17:38:55.310 +05:30 [DBG] Connection id "0HN0JCSTV862S" completed keep alive response.
+2024-01-12 17:38:55.310 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/favicon.ico - 200 5430 image/x-icon 2.7252ms
+2024-01-12 17:38:57.397 +05:30 [DBG] Connection id "0HN0JCSTV862V" received FIN.
+2024-01-12 17:38:57.397 +05:30 [DBG] Connection id "0HN0JCSTV8631" received FIN.
+2024-01-12 17:38:57.397 +05:30 [DBG] Connection id "0HN0JCSTV862T" received FIN.
+2024-01-12 17:38:57.397 +05:30 [DBG] Connection id "0HN0JCSTV8630" received FIN.
+2024-01-12 17:38:57.397 +05:30 [DBG] Connection id "0HN0JCSTV862U" received FIN.
+2024-01-12 17:38:57.397 +05:30 [DBG] Connection id "0HN0JCSTV862S" received FIN.
+2024-01-12 17:38:57.398 +05:30 [DBG] Connection id "0HN0JCSTV8631" disconnecting.
+2024-01-12 17:38:57.398 +05:30 [DBG] Connection id "0HN0JCSTV862V" disconnecting.
+2024-01-12 17:38:57.398 +05:30 [DBG] Connection id "0HN0JCSTV8631" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-12 17:38:57.399 +05:30 [DBG] Connection id "0HN0JCSTV862V" stopped.
+2024-01-12 17:38:57.399 +05:30 [DBG] Connection id "0HN0JCSTV862T" disconnecting.
+2024-01-12 17:38:57.399 +05:30 [DBG] Connection id "0HN0JCSTV862T" stopped.
+2024-01-12 17:38:57.399 +05:30 [DBG] Connection id "0HN0JCSTV8630" disconnecting.
+2024-01-12 17:38:57.399 +05:30 [DBG] Connection id "0HN0JCSTV8630" stopped.
+2024-01-12 17:38:57.399 +05:30 [DBG] Connection id "0HN0JCSTV8631" stopped.
+2024-01-12 17:38:57.399 +05:30 [DBG] Connection id "0HN0JCSTV862U" disconnecting.
+2024-01-12 17:38:57.399 +05:30 [DBG] Connection id "0HN0JCSTV862U" stopped.
+2024-01-12 17:38:57.400 +05:30 [DBG] Connection id "0HN0JCSTV862S" disconnecting.
+2024-01-12 17:38:57.400 +05:30 [DBG] Connection id "0HN0JCSTV862S" stopped.
+2024-01-12 17:38:57.401 +05:30 [DBG] Connection id "0HN0JCSTV862V" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-12 17:38:57.401 +05:30 [DBG] Connection id "0HN0JCSTV8630" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-12 17:38:57.401 +05:30 [DBG] Connection id "0HN0JCSTV862S" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-12 17:38:57.401 +05:30 [DBG] Connection id "0HN0JCSTV862U" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-12 17:38:57.401 +05:30 [DBG] Connection id "0HN0JCSTV862T" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-12 17:39:09.879 +05:30 [DBG] Connection id "0HN0JCSTV8632" accepted.
+2024-01-12 17:39:09.879 +05:30 [DBG] Connection id "0HN0JCSTV8632" started.
+2024-01-12 17:39:10.119 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/Identity/Account/Login - null null
+2024-01-12 17:39:10.119 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:39:10.119 +05:30 [DBG] The request path /Identity/Account/Login does not match a supported file type
+2024-01-12 17:39:10.121 +05:30 [DBG] Connection id "0HN0JCSTV8633" accepted.
+2024-01-12 17:39:10.122 +05:30 [DBG] Connection id "0HN0JCSTV8633" started.
+2024-01-12 17:39:10.124 +05:30 [DBG] 1 candidate(s) found for the request path '/Identity/Account/Login'
+2024-01-12 17:39:10.125 +05:30 [DBG] Endpoint '/Account/Login' with route pattern 'Identity/Account/Login' is valid for the request path '/Identity/Account/Login'
+2024-01-12 17:39:10.125 +05:30 [DBG] Request matched endpoint '/Account/Login'
+2024-01-12 17:39:10.127 +05:30 [DBG] AuthenticationScheme: Identity.Application was not authenticated.
+2024-01-12 17:39:10.127 +05:30 [INF] Executing endpoint '/Account/Login'
+2024-01-12 17:39:10.150 +05:30 [INF] Route matched with {page = "/Account/Login", area = "Identity", action = "", controller = ""}. Executing page /Account/Login
+2024-01-12 17:39:10.150 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter"]
+2024-01-12 17:39:10.151 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-01-12 17:39:10.151 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2024-01-12 17:39:10.151 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-01-12 17:39:10.151 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-01-12 17:39:10.153 +05:30 [DBG] Executing page model factory for page AspNetCoreGeneratedDocument.Areas_Identity_Pages_Account_Login (TimeMate)
+2024-01-12 17:39:10.187 +05:30 [DBG] Executed page model factory for page AspNetCoreGeneratedDocument.Areas_Identity_Pages_Account_Login (TimeMate)
+2024-01-12 17:39:10.193 +05:30 [DBG] Attempting to bind property 'TimeMate.Areas.Identity.Pages.Account.LoginModel.Input' of type 'TimeMate.Areas.Identity.Pages.Account.LoginModel+InputModel' ...
+2024-01-12 17:39:10.193 +05:30 [DBG] Skipped binding property 'TimeMate.Areas.Identity.Pages.Account.LoginModel.Input' since its binding information disallowed it for the current request.
+2024-01-12 17:39:10.197 +05:30 [DBG] Attempting to bind parameter 'returnUrl' of type 'System.String' ...
+2024-01-12 17:39:10.199 +05:30 [DBG] Attempting to bind parameter 'returnUrl' of type 'System.String' using the name '' in request data ...
+2024-01-12 17:39:10.200 +05:30 [DBG] Could not find a value in the request with name '' for binding parameter 'returnUrl' of type 'System.String'.
+2024-01-12 17:39:10.200 +05:30 [DBG] Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2024-01-12 17:39:10.200 +05:30 [DBG] Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2024-01-12 17:39:10.200 +05:30 [DBG] Attempting to validate the bound parameter 'returnUrl' of type 'System.String' ...
+2024-01-12 17:39:10.202 +05:30 [DBG] Done attempting to validate the bound parameter 'returnUrl' of type 'System.String'.
+2024-01-12 17:39:10.204 +05:30 [DBG] The temp data cookie .AspNetCore.Mvc.CookieTempDataProvider was not found.
+2024-01-12 17:39:10.211 +05:30 [INF] Executing handler method TimeMate.Areas.Identity.Pages.Account.LoginModel.OnGetAsync - ModelState is "Valid"
+2024-01-12 17:39:10.221 +05:30 [INF] AuthenticationScheme: Identity.External signed out.
+2024-01-12 17:39:10.223 +05:30 [INF] Executed handler method OnGetAsync, returned result .
+2024-01-12 17:39:10.226 +05:30 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-01-12 17:39:10.226 +05:30 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-01-12 17:39:10.237 +05:30 [DBG] A new antiforgery cookie token was created.
+2024-01-12 17:39:10.275 +05:30 [DBG] Found the endpoints ["/Account/ForgotPassword","Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (area=[Identity],page=[/Account/ForgotPassword])
+2024-01-12 17:39:10.275 +05:30 [DBG] Successfully processed template Identity/Account/ForgotPassword for /Account/ForgotPassword resulting in /Identity/Account/ForgotPassword and 
+2024-01-12 17:39:10.275 +05:30 [DBG] Link generation succeeded for endpoints ["/Account/ForgotPassword","Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /Identity/Account/ForgotPassword
+2024-01-12 17:39:10.275 +05:30 [DBG] Found the endpoints ["/Account/ResendEmailConfirmation","Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (page=[/Account/ResendEmailConfirmation])
+2024-01-12 17:39:10.276 +05:30 [DBG] Successfully processed template Identity/Account/ResendEmailConfirmation for /Account/ResendEmailConfirmation resulting in /Identity/Account/ResendEmailConfirmation and 
+2024-01-12 17:39:10.276 +05:30 [DBG] Link generation succeeded for endpoints ["/Account/ResendEmailConfirmation","Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /Identity/Account/ResendEmailConfirmation
+2024-01-12 17:39:10.279 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (area=[],action=[Index],controller=[Home])
+2024-01-12 17:39:10.279 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?}/{id2?} for Route: {controller=Home}/{action=Index}/{id?}/{id2?} resulting in  and 
+2024-01-12 17:39:10.279 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /
+2024-01-12 17:39:10.279 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (area=[],action=[Index],controller=[Home])
+2024-01-12 17:39:10.280 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?}/{id2?} for Route: {controller=Home}/{action=Index}/{id?}/{id2?} resulting in  and 
+2024-01-12 17:39:10.280 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /
+2024-01-12 17:39:10.280 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (area=[],action=[Privacy],controller=[Home])
+2024-01-12 17:39:10.280 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?}/{id2?} for Route: {controller=Home}/{action=Index}/{id?}/{id2?} resulting in /Home/Privacy and 
+2024-01-12 17:39:10.280 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /Home/Privacy
+2024-01-12 17:39:10.280 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (area=[],action=[SubmitFeedback],controller=[Home])
+2024-01-12 17:39:10.280 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?}/{id2?} for Route: {controller=Home}/{action=Index}/{id?}/{id2?} resulting in /Home/SubmitFeedback and 
+2024-01-12 17:39:10.280 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /Home/SubmitFeedback
+2024-01-12 17:39:10.280 +05:30 [DBG] View lookup cache miss for view '_LoginPartial' in controller 'null'.
+2024-01-12 17:39:10.281 +05:30 [DBG] Found the endpoints ["/Account/Login","Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (area=[Identity],page=[/Account/Login])
+2024-01-12 17:39:10.281 +05:30 [DBG] Successfully processed template Identity/Account/Login for /Account/Login resulting in /Identity/Account/Login and 
+2024-01-12 17:39:10.281 +05:30 [DBG] Link generation succeeded for endpoints ["/Account/Login","Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /Identity/Account/Login
+2024-01-12 17:39:10.281 +05:30 [DBG] View lookup cache miss for view '_CookieConsentPartial' in controller 'null'.
+2024-01-12 17:39:10.281 +05:30 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] for address (area=[],action=[Privacy],controller=[Home])
+2024-01-12 17:39:10.281 +05:30 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?}/{id2?} for Route: {controller=Home}/{action=Index}/{id?}/{id2?} resulting in /Home/Privacy and 
+2024-01-12 17:39:10.281 +05:30 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}/{id2?}"] with result /Home/Privacy
+2024-01-12 17:39:10.283 +05:30 [DBG] View lookup cache miss for view '_ValidationScriptsPartial' in controller 'null'.
+2024-01-12 17:39:10.291 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-01-12 17:39:10.294 +05:30 [INF] Executed page /Account/Login in 143.0972ms
+2024-01-12 17:39:10.294 +05:30 [INF] Executed endpoint '/Account/Login'
+2024-01-12 17:39:10.294 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2024-01-12 17:39:10.294 +05:30 [DBG] Connection id "0HN0JCSTV8632" completed keep alive response.
+2024-01-12 17:39:10.294 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/Identity/Account/Login - 200 null text/html; charset=utf-8 175.3991ms
+2024-01-12 17:39:10.310 +05:30 [DBG] Connection id "0HN0JCSTV8634" accepted.
+2024-01-12 17:39:10.310 +05:30 [DBG] Connection id "0HN0JCSTV8634" started.
+2024-01-12 17:39:10.311 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/Identity/lib/jquery-validation/dist/jquery.validate.js - null null
+2024-01-12 17:39:10.311 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/TimeMate.styles.css?v=DV34v1Yv_HBTe41dzHk1cP-MvKclTi_feQmr1Tn3JzI - null null
+2024-01-12 17:39:10.311 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:39:10.311 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:39:10.312 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js - null null
+2024-01-12 17:39:10.312 +05:30 [DBG] The request path  does not match the path filter
+2024-01-12 17:39:10.313 +05:30 [INF] The file /TimeMate.styles.css was not modified
+2024-01-12 17:39:10.314 +05:30 [INF] Sending file. Request path: '/Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js'. Physical path: 'C:\Users\aruneshan.swami\.nuget\packages\microsoft.aspnetcore.identity.ui\8.0.1\staticwebassets\V5\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js'
+2024-01-12 17:39:10.314 +05:30 [DBG] Connection id "0HN0JCSTV8634" completed keep alive response.
+2024-01-12 17:39:10.315 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/Identity/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js - 200 19385 text/javascript 2.9603ms
+2024-01-12 17:39:10.315 +05:30 [INF] Sending file. Request path: '/Identity/lib/jquery-validation/dist/jquery.validate.js'. Physical path: 'C:\Users\aruneshan.swami\.nuget\packages\microsoft.aspnetcore.identity.ui\8.0.1\staticwebassets\V5\lib\jquery-validation\dist\jquery.validate.js'
+2024-01-12 17:39:10.315 +05:30 [DBG] Connection id "0HN0JCSTV8633" completed keep alive response.
+2024-01-12 17:39:10.315 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/Identity/lib/jquery-validation/dist/jquery.validate.js - 200 51171 text/javascript 4.1587ms
+2024-01-12 17:39:10.315 +05:30 [DBG] Handled. Status code: 304 File: /TimeMate.styles.css
+2024-01-12 17:39:10.315 +05:30 [DBG] Connection id "0HN0JCSTV8632" completed keep alive response.
+2024-01-12 17:39:10.315 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/TimeMate.styles.css?v=DV34v1Yv_HBTe41dzHk1cP-MvKclTi_feQmr1Tn3JzI - 304 null text/css 4.4891ms
+2024-01-12 17:39:10.335 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/_framework/aspnetcore-browser-refresh.js - null null
+2024-01-12 17:39:10.335 +05:30 [DBG] Connection id "0HN0JCSTV8633" completed keep alive response.
+2024-01-12 17:39:10.335 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/_framework/aspnetcore-browser-refresh.js - 200 13732 application/javascript; charset=utf-8 0.1815ms
+2024-01-12 17:39:35.262 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5006/Identity/Account/Login - application/x-www-form-urlencoded 274
+2024-01-12 17:39:35.262 +05:30 [DBG] POST requests are not supported
+2024-01-12 17:39:35.263 +05:30 [DBG] POST requests are not supported
+2024-01-12 17:39:35.273 +05:30 [DBG] 1 candidate(s) found for the request path '/Identity/Account/Login'
+2024-01-12 17:39:35.273 +05:30 [DBG] Endpoint '/Account/Login' with route pattern 'Identity/Account/Login' is valid for the request path '/Identity/Account/Login'
+2024-01-12 17:39:35.273 +05:30 [DBG] Request matched endpoint '/Account/Login'
+2024-01-12 17:39:35.274 +05:30 [DBG] AuthenticationScheme: Identity.Application was not authenticated.
+2024-01-12 17:39:35.275 +05:30 [INF] Executing endpoint '/Account/Login'
+2024-01-12 17:39:35.275 +05:30 [INF] Route matched with {page = "/Account/Login", area = "Identity", action = "", controller = ""}. Executing page /Account/Login
+2024-01-12 17:39:35.275 +05:30 [DBG] Execution plan of authorization filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.AutoValidateAntiforgeryTokenAuthorizationFilter"]
+2024-01-12 17:39:35.275 +05:30 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-01-12 17:39:35.275 +05:30 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2024-01-12 17:39:35.275 +05:30 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-01-12 17:39:35.275 +05:30 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2024-01-12 17:39:35.280 +05:30 [DBG] Connection id "0HN0JCSTV8633", Request id "0HN0JCSTV8633:00000003": started reading request body.
+2024-01-12 17:39:35.280 +05:30 [DBG] Connection id "0HN0JCSTV8633", Request id "0HN0JCSTV8633:00000003": done reading request body.
+2024-01-12 17:39:35.283 +05:30 [DBG] Antiforgery successfully validated a request.
+2024-01-12 17:39:35.284 +05:30 [DBG] Executing page model factory for page AspNetCoreGeneratedDocument.Areas_Identity_Pages_Account_Login (TimeMate)
+2024-01-12 17:39:35.285 +05:30 [DBG] Executed page model factory for page AspNetCoreGeneratedDocument.Areas_Identity_Pages_Account_Login (TimeMate)
+2024-01-12 17:39:35.288 +05:30 [DBG] Attempting to bind property 'TimeMate.Areas.Identity.Pages.Account.LoginModel.Input' of type 'TimeMate.Areas.Identity.Pages.Account.LoginModel+InputModel' ...
+2024-01-12 17:39:35.290 +05:30 [DBG] Attempting to bind property 'TimeMate.Areas.Identity.Pages.Account.LoginModel.Input' of type 'TimeMate.Areas.Identity.Pages.Account.LoginModel+InputModel' using the name 'Input' in request data ...
+2024-01-12 17:39:35.294 +05:30 [DBG] Attempting to bind property 'TimeMate.Areas.Identity.Pages.Account.LoginModel+InputModel.Email' of type 'System.String' using the name 'Input.Email' in request data ...
+2024-01-12 17:39:35.294 +05:30 [DBG] Done attempting to bind property 'TimeMate.Areas.Identity.Pages.Account.LoginModel+InputModel.Email' of type 'System.String'.
+2024-01-12 17:39:35.295 +05:30 [DBG] Attempting to bind property 'TimeMate.Areas.Identity.Pages.Account.LoginModel+InputModel.Password' of type 'System.String' using the name 'Input.Password' in request data ...
+2024-01-12 17:39:35.295 +05:30 [DBG] Done attempting to bind property 'TimeMate.Areas.Identity.Pages.Account.LoginModel+InputModel.Password' of type 'System.String'.
+2024-01-12 17:39:35.295 +05:30 [DBG] Attempting to bind property 'TimeMate.Areas.Identity.Pages.Account.LoginModel+InputModel.RememberMe' of type 'System.Boolean' using the name 'Input.RememberMe' in request data ...
+2024-01-12 17:39:35.295 +05:30 [DBG] Done attempting to bind property 'TimeMate.Areas.Identity.Pages.Account.LoginModel+InputModel.RememberMe' of type 'System.Boolean'.
+2024-01-12 17:39:35.296 +05:30 [DBG] Done attempting to bind property 'TimeMate.Areas.Identity.Pages.Account.LoginModel.Input' of type 'TimeMate.Areas.Identity.Pages.Account.LoginModel+InputModel'.
+2024-01-12 17:39:35.296 +05:30 [DBG] Done attempting to bind property 'TimeMate.Areas.Identity.Pages.Account.LoginModel.Input' of type 'TimeMate.Areas.Identity.Pages.Account.LoginModel+InputModel'.
+2024-01-12 17:39:35.296 +05:30 [DBG] Attempting to validate the bound property 'TimeMate.Areas.Identity.Pages.Account.LoginModel.Input' of type 'TimeMate.Areas.Identity.Pages.Account.LoginModel+InputModel' ...
+2024-01-12 17:39:35.302 +05:30 [DBG] Done attempting to validate the bound property 'TimeMate.Areas.Identity.Pages.Account.LoginModel.Input' of type 'TimeMate.Areas.Identity.Pages.Account.LoginModel+InputModel'.
+2024-01-12 17:39:35.302 +05:30 [DBG] Attempting to bind parameter 'returnUrl' of type 'System.String' ...
+2024-01-12 17:39:35.303 +05:30 [DBG] Attempting to bind parameter 'returnUrl' of type 'System.String' using the name '' in request data ...
+2024-01-12 17:39:35.303 +05:30 [DBG] Could not find a value in the request with name '' for binding parameter 'returnUrl' of type 'System.String'.
+2024-01-12 17:39:35.303 +05:30 [DBG] Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2024-01-12 17:39:35.303 +05:30 [DBG] Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2024-01-12 17:39:35.303 +05:30 [DBG] Attempting to validate the bound parameter 'returnUrl' of type 'System.String' ...
+2024-01-12 17:39:35.303 +05:30 [DBG] Done attempting to validate the bound parameter 'returnUrl' of type 'System.String'.
+2024-01-12 17:39:35.303 +05:30 [DBG] The temp data cookie .AspNetCore.Mvc.CookieTempDataProvider was not found.
+2024-01-12 17:39:35.303 +05:30 [INF] Executing handler method TimeMate.Areas.Identity.Pages.Account.LoginModel.OnPostAsync - ModelState is "Valid"
+2024-01-12 17:39:35.337 +05:30 [INF] Executed page /Account/Login in 61.6201ms
+2024-01-12 17:39:35.338 +05:30 [INF] Executed endpoint '/Account/Login'
+2024-01-12 17:39:35.338 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.MissingMethodException: Method not found: 'Void Microsoft.EntityFrameworkCore.Storage.RelationalTypeMapping..ctor(System.String, System.Type, System.Nullable`1<System.Data.DbType>, Boolean, System.Nullable`1<Int32>, Boolean, System.Nullable`1<Int32>, System.Nullable`1<Int32>)'.
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerSqlVariantTypeMapping..ctor(String storeType)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerTypeMappingSource..ctor(TypeMappingSourceDependencies dependencies, RelationalTypeMappingSourceDependencies relationalDependencies)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)
+   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.SqlServerServiceCollectionExtensions.<>c.<AddEntityFrameworkSqlServer>b__1_2(IServiceProvider p)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_ContextServices()
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.Set[TEntity]()
+   at Microsoft.AspNetCore.Identity.EntityFrameworkCore.UserStore`9.get_UsersSet()
+   at Microsoft.AspNetCore.Identity.EntityFrameworkCore.UserStore`9.get_Users()
+   at Microsoft.AspNetCore.Identity.EntityFrameworkCore.UserStore`9.FindByNameAsync(String normalizedUserName, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.UserManager`1.FindByNameAsync(String userName)
+   at Microsoft.AspNetCore.Identity.SignInManager`1.PasswordSignInAsync(String userName, String password, Boolean isPersistent, Boolean lockoutOnFailure)
+   at TimeMate.Areas.Identity.Pages.Account.LoginModel.OnPostAsync(String returnUrl) in C:\Users\aruneshan.swami\Downloads\Project\TimeMate\Areas\Identity\Pages\Account\Login.cshtml.cs:line 90
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Convert[T](Object taskAsObject)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-01-12 17:39:35.380 +05:30 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-01-12 17:39:35.381 +05:30 [DBG] Response markup was updated to include browser refresh script injection.
+2024-01-12 17:39:35.381 +05:30 [DBG] Connection id "0HN0JCSTV8633" completed keep alive response.
+2024-01-12 17:39:35.381 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5006/Identity/Account/Login - 500 null text/html; charset=utf-8 118.9519ms
+2024-01-12 17:39:35.391 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5006/_framework/aspnetcore-browser-refresh.js - null null
+2024-01-12 17:39:35.391 +05:30 [DBG] Connection id "0HN0JCSTV8633" completed keep alive response.
+2024-01-12 17:39:35.391 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5006/_framework/aspnetcore-browser-refresh.js - 200 13732 application/javascript; charset=utf-8 0.1742ms
+2024-01-12 17:40:12.172 +05:30 [DBG] Connection id "0HN0JCSTV8632" received FIN.
+2024-01-12 17:40:12.172 +05:30 [DBG] Connection id "0HN0JCSTV8634" received FIN.
+2024-01-12 17:40:12.172 +05:30 [DBG] Connection id "0HN0JCSTV8633" received FIN.
+2024-01-12 17:40:12.172 +05:30 [DBG] Connection id "0HN0JCSTV8632" disconnecting.
+2024-01-12 17:40:12.172 +05:30 [DBG] Connection id "0HN0JCSTV8632" stopped.
+2024-01-12 17:40:12.172 +05:30 [DBG] Connection id "0HN0JCSTV8634" disconnecting.
+2024-01-12 17:40:12.172 +05:30 [DBG] Connection id "0HN0JCSTV8634" stopped.
+2024-01-12 17:40:12.172 +05:30 [DBG] Connection id "0HN0JCSTV8633" disconnecting.
+2024-01-12 17:40:12.172 +05:30 [DBG] Connection id "0HN0JCSTV8633" stopped.
+2024-01-12 17:40:12.172 +05:30 [DBG] Connection id "0HN0JCSTV8632" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-12 17:40:12.172 +05:30 [DBG] Connection id "0HN0JCSTV8634" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-01-12 17:40:12.172 +05:30 [DBG] Connection id "0HN0JCSTV8633" sending FIN because: "The Socket transport's send loop completed gracefully."

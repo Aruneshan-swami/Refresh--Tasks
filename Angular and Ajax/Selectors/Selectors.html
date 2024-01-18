@@ -1,0 +1,63 @@
+ 
+
+<!DOCTYPE html> 
+
+<html> 
+
+<body> 
+
+<h2>Finding HTML Elements by Id</h2> 
+
+<p class="container">This is for Class selector</p> 
+
+<p id="id01">Hello World!</p> 
+
+<p id="id02">This is a sample</p> 
+
+ 
+
+<p id="AJAX"></p> 
+
+<script> 
+
+// Corrected variable names and method calls 
+
+const myElement = document.getElementById("id01"); 
+
+const myTag = document.getElementsByTagName("p"); 
+
+const myClass = document.getElementsByClassName("container"); 
+
+const qAll = document.querySelectorAll("p.container"); 
+
+document.getElementById("AJAX").innerHTML = "The text in the first paragraph is: " + myElement.innerHTML; 
+
+for (let i = 0; i < myTag.length; i++) { 
+
+      myTag[i].innerHTML = "The text in the paragraph is: " + myTag[i].innerHTML; 
+
+    } 
+
+ 
+
+    for (let i = 0; i < myClass.length; i++) { 
+
+      myClass[i].innerHTML = "The text in the paragraph is: " + myClass[i].innerHTML; 
+
+    } 
+
+ 
+
+    qAll.forEach(element => { 
+
+      element.innerHTML = "The text in the paragraph is: " + element.innerHTML; 
+
+    }); 
+
+</script> 
+
+ 
+
+</body> 
+
+</html> 
