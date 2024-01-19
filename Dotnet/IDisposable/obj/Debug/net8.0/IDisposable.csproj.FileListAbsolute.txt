@@ -1,0 +1,15 @@
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\bin\Debug\net8.0\IDisposable.exe
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\bin\Debug\net8.0\IDisposable.deps.json
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\bin\Debug\net8.0\IDisposable.runtimeconfig.json
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\bin\Debug\net8.0\IDisposable.dll
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\bin\Debug\net8.0\IDisposable.pdb
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\obj\Debug\net8.0\IDisposable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\obj\Debug\net8.0\IDisposable.AssemblyInfoInputs.cache
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\obj\Debug\net8.0\IDisposable.AssemblyInfo.cs
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\obj\Debug\net8.0\IDisposable.csproj.CoreCompileInputs.cache
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\obj\Debug\net8.0\IDisposable.sourcelink.json
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\obj\Debug\net8.0\IDisposable.dll
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\obj\Debug\net8.0\refint\IDisposable.dll
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\obj\Debug\net8.0\IDisposable.pdb
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\obj\Debug\net8.0\IDisposable.genruntimeconfig.cache
+C:\Users\aruneshan.swami\Documents\Refresher-Task\Dotnet\IDisposable\obj\Debug\net8.0\ref\IDisposable.dll
