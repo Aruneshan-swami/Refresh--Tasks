@@ -1,8 +1,4 @@
-@defer(on viewport) {
     <app-home></app-home>
-} @placeholder (minimum 500ms) {
-    <div>Loading..</div>
-  }
 <div class="registerationForm">
     <h2>SignUp</h2>
     <form [formGroup] ="registerationForm" (ngSubmit)="OnSubmit()">
@@ -12,6 +8,11 @@
         <input type="email" id="Email"formControlName="Email" required>
         <label for="Password">Password :</label>
         <input type="password" id="Password"formControlName="Password" required>
+        @defer(on viewport) {
         <button type="button">Register</button>
+        }
+        @placeholder (minimum 500ms) {
+            <div>Loading..</div>
+  }
     </form>
 </div>
