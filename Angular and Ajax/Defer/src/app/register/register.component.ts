@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { FormBuilder, FormGroup, ReactiveFormsModule, Validators } from '@angular/forms';
 import { HomeComponent } from '../home/home.component';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-register',

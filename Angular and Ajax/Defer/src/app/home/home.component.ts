@@ -17,5 +17,9 @@ export class HomeComponent {
   navigateToHome():void{
     this.router.navigate(['/root']);
   }
+  navigateToRegister(){
+    this.router.navigate(['/register']);
+  }
+
 
 }

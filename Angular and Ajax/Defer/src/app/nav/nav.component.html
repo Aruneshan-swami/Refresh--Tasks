@@ -1,8 +1,7 @@
-@defer(on immediate) {
-  <app-nav></app-nav>
-} @placeholder (minimum 500ms) {
-  <app-home></app-home>
-  <div class="card">
+
+<app-home></app-home>
+
+<div class="card">
     <div class="container">
       <div class="main">
         <h1>SignIn</h1>
@@ -15,8 +14,11 @@
             <input type="password" class="form-control" id="Password"required>
           </div>
       <button type="button" (click) ="display()" >Login</button>
+      <br/>
+      <button type="button" (click) ="navigateToRegister()" >Register</button>
+
     </form>
 </div>
 </div>
 </div>
-}
+
