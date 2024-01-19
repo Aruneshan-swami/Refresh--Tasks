@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aruneshan.swami\\Downloads\\Tasks\\Task 3\\EFInheritance\\EFInheritance.csproj": {}
+    "C:\\Users\\aruneshan.swami\\Documents\\Refresher-Task\\Dotnet\\Task 3 EFInheritance\\EFInheritance\\EFInheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aruneshan.swami\\Downloads\\Tasks\\Task 3\\EFInheritance\\EFInheritance.csproj": {
+    "C:\\Users\\aruneshan.swami\\Documents\\Refresher-Task\\Dotnet\\Task 3 EFInheritance\\EFInheritance\\EFInheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aruneshan.swami\\Downloads\\Tasks\\Task 3\\EFInheritance\\EFInheritance.csproj",
+        "projectUniqueName": "C:\\Users\\aruneshan.swami\\Documents\\Refresher-Task\\Dotnet\\Task 3 EFInheritance\\EFInheritance\\EFInheritance.csproj",
         "projectName": "EFInheritance",
-        "projectPath": "C:\\Users\\aruneshan.swami\\Downloads\\Tasks\\Task 3\\EFInheritance\\EFInheritance.csproj",
+        "projectPath": "C:\\Users\\aruneshan.swami\\Documents\\Refresher-Task\\Dotnet\\Task 3 EFInheritance\\EFInheritance\\EFInheritance.csproj",
         "packagesPath": "C:\\Users\\aruneshan.swami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aruneshan.swami\\Downloads\\Tasks\\Task 3\\EFInheritance\\obj\\",
+        "outputPath": "C:\\Users\\aruneshan.swami\\Documents\\Refresher-Task\\Dotnet\\Task 3 EFInheritance\\EFInheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aruneshan.swami\\AppData\\Roaming\\NuGet\\NuGet.Config"

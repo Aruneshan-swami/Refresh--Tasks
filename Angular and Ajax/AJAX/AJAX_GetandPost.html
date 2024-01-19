@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple AJAX Example</title>
+</head>
+<body>
+
+<h1>Simple AJAX Example</h1>
+
+<!-- Buttons for both create and retrieve -->
+<button onclick="createTodo()">Create Todo</button>
+<button onclick="retrieveTodos()">Retrieve Todos</button>
+
+<div id="result"></div>
+
+<script>
+    function createTodo() {
+        // Create a new XMLHttpRequest object
+        var xhttp = new XMLHttpRequest();
+
+        // Define the request method and URL for creating a new todo
+        xhttp.open("POST", "https://jsonplaceholder.typicode.com/todos", true);
+
+        // Set up a callback function to handle the response
+        xhttp.onreadystatechange = function() {
+            if (this.readyState === 4) {
+                if (this.status === 201) {
+                    // Parse the JSON response
+                    var data = JSON.parse(this.responseText);
+
+                    // Display the result
+                    document.getElementById("result").innerHTML =
+                        "New Todo ID: " + data.id + "<br>" +
+                        "Title: " + data.title + "<br>" +
+                        "Completed: " + data.completed;
+                } else {
+                    document.getElementById("result").innerHTML =
+                        "Failed to create todo. Status: " + this.status;
+                }
+            }
+        };
+
+        // Set the content type for a POST request
+        xhttp.setRequestHeader("Content-type", "application/json");
+
+        // Create a JSON payload for creating a new todo
+        var newTodo = {
+            title: "New Todo",
+            completed: false
+        };
+
+        // Send the POST request with the JSON payload
+        xhttp.send(JSON.stringify(newTodo));
+    }
+
+    function retrieveTodos() {
+        // Create a new XMLHttpRequest object
+        var xhttp = new XMLHttpRequest();
+
+        // Define the request method and URL for retrieving todos
+        xhttp.open("GET", "https://jsonplaceholder.typicode.com/todos", true);
+
+        // Set up a callback function to handle the response
+        xhttp.onreadystatechange = function() {
+            if (this.readyState === 4) {
+                if (this.status === 200) {
+                    // Parse the JSON response
+                    var todos = JSON.parse(this.responseText);
+
+                    // Display the result
+                    var resultHtml = "<h2>Todos:</h2><ul>";
+                    todos.forEach(function(todo) {
+                        resultHtml += "<li>User ID: " + todo.userId +
+                            ", Title: " + todo.title +
+                            ", Completed: " + todo.completed + "</li>";
+                    });
+                    resultHtml += "</ul>";
+
+                    document.getElementById("result").innerHTML = resultHtml;
+                } else {
+                    document.getElementById("result").innerHTML =
+                        "Failed to retrieve todos. Status: " + this.status;
+                }
+            }
+        };
+
+        // Send the GET request
+        xhttp.send();
+    }
+</script>
+
+</body>
+</html>

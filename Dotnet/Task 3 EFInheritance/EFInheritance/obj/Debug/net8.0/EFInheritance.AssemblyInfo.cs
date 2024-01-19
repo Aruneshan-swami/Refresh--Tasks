@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFInheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d4f03589b3f4239f4021174222d56abce8bd454")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9700b0facac9018c8007488842761b7e189b9fa7")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFInheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFInheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
