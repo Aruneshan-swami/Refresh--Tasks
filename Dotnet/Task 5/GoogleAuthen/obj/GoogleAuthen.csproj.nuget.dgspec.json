@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aruneshan.swami\\Documents\\GoogleAuthen\\GoogleAuthen.csproj": {}
+    "C:\\Users\\aruneshan.swami\\Documents\\Refresher-Task\\Dotnet\\Task 5\\GoogleAuthen\\GoogleAuthen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aruneshan.swami\\Documents\\GoogleAuthen\\GoogleAuthen.csproj": {
+    "C:\\Users\\aruneshan.swami\\Documents\\Refresher-Task\\Dotnet\\Task 5\\GoogleAuthen\\GoogleAuthen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aruneshan.swami\\Documents\\GoogleAuthen\\GoogleAuthen.csproj",
+        "projectUniqueName": "C:\\Users\\aruneshan.swami\\Documents\\Refresher-Task\\Dotnet\\Task 5\\GoogleAuthen\\GoogleAuthen.csproj",
         "projectName": "GoogleAuthen",
-        "projectPath": "C:\\Users\\aruneshan.swami\\Documents\\GoogleAuthen\\GoogleAuthen.csproj",
+        "projectPath": "C:\\Users\\aruneshan.swami\\Documents\\Refresher-Task\\Dotnet\\Task 5\\GoogleAuthen\\GoogleAuthen.csproj",
         "packagesPath": "C:\\Users\\aruneshan.swami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aruneshan.swami\\Documents\\GoogleAuthen\\obj\\",
+        "outputPath": "C:\\Users\\aruneshan.swami\\Documents\\Refresher-Task\\Dotnet\\Task 5\\GoogleAuthen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aruneshan.swami\\AppData\\Roaming\\NuGet\\NuGet.Config"

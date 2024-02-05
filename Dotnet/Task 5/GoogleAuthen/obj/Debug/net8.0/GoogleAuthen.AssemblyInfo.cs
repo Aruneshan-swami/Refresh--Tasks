@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoogleAuthen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4b461d67a3fed724278f9223e5b6b7f04a9e89e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoogleAuthen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoogleAuthen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

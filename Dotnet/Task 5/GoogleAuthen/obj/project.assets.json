@@ -8287,11 +8287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aruneshan.swami\\Documents\\GoogleAuthen\\GoogleAuthen.csproj",
+      "projectUniqueName": "C:\\Users\\aruneshan.swami\\Documents\\Refresher-Task\\Dotnet\\Task 5\\GoogleAuthen\\GoogleAuthen.csproj",
       "projectName": "GoogleAuthen",
-      "projectPath": "C:\\Users\\aruneshan.swami\\Documents\\GoogleAuthen\\GoogleAuthen.csproj",
+      "projectPath": "C:\\Users\\aruneshan.swami\\Documents\\Refresher-Task\\Dotnet\\Task 5\\GoogleAuthen\\GoogleAuthen.csproj",
       "packagesPath": "C:\\Users\\aruneshan.swami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aruneshan.swami\\Documents\\GoogleAuthen\\obj\\",
+      "outputPath": "C:\\Users\\aruneshan.swami\\Documents\\Refresher-Task\\Dotnet\\Task 5\\GoogleAuthen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aruneshan.swami\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -8383,13 +8383,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\aruneshan.swami\\Documents\\GoogleAuthen\\obj\\project.nuget.cache : After parsing a value an unexpected character was encountered: e. Path 'projectFilePath', line 6, position 3."
-    }
-  ]
+  }
 }
